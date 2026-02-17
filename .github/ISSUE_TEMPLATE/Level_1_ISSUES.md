@@ -1,3 +1,11 @@
+---
+name: "🟢 Level 1 - Beginner Issue"
+about: Beginner-friendly contribution task for the sprintathon
+title: "[BEGINNER] "
+labels: ["good-first-issue", "beginner", "level_1"]
+assignees: ""
+---
+
 # Sample Beginner Issues for Zaplink Frontend
 
 These are example issues suitable for beginners participating in the GDG CHARUSAT Open Source Contri Sprintathon. Copy and paste these into GitHub Issues with appropriate labels (`good-first-issue`, `beginner`, `level-1`).
